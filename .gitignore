@@ -1,0 +1,24 @@
+# Gradle build output
+.gradle/
+build/
+
+# Local configuration (SDK path, signing, etc.)
+local.properties
+
+# IDE configuration
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Generated files
+*.class
+*.log
+
+# Signing keys (security!)
+*.keystore
+*.jks
+
+# Misc
+.DS_Store
