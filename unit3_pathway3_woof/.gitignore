@@ -1,3 +1,5 @@
+cd C:\Users\DucAnhNguyen\AndroidStudioProjects\INT3120_1_practical
+git status
 # built application files
 *.apk
 *.ap_
