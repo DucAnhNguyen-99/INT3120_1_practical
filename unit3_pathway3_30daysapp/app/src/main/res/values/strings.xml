@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">30 Days of Wellness</string>
+
+    <!-- Day 1–10 -->
+    <string name="day_1">Day 1</string>
+    <string name="tip_1_title">Spend 15 minutes outdoors</string>
+    <string name="tip_1_desc">Take a short walk or relax in nature to recharge your mind.</string>
+
+    <string name="day_2">Day 2</string>
+    <string name="tip_2_title">Listen to a new podcast</string>
+    <string name="tip_2_desc">Find a podcast that inspires or entertains you during your day.</string>
+
+    <string name="day_3">Day 3</string>
+    <string name="tip_3_title">Meditate for 3 minutes</string>
+    <string name="tip_3_desc">Close your eyes and focus on your breathing to reduce stress.</string>
+
+    <string name="day_4">Day 4</string>
+    <string name="tip_4_title">Drink more water</string>
+    <string name="tip_4_desc">Stay hydrated — aim for at least 8 glasses throughout the day.</string>
+
+    <string name="day_5">Day 5</string>
+    <string name="tip_5_title">Write down your goals</string>
+    <string name="tip_5_desc">List 3 small goals you want to achieve this week.</string>
+
+    <string name="day_6">Day 6</string>
+    <string name="tip_6_title">Stretch for 5 minutes</string>
+    <string name="tip_6_desc">Do a quick morning stretch to awaken your body.</string>
+
+    <string name="day_7">Day 7</string>
+    <string name="tip_7_title">Read a chapter of a book</string>
+    <string name="tip_7_desc">Spend 10–15 minutes reading something that interests you.</string>
+
+    <string name="day_8">Day 8</string>
+    <string name="tip_8_title">Cook a healthy meal</string>
+    <string name="tip_8_desc">Try making a simple dish using fresh ingredients.</string>
+
+    <string name="day_9">Day 9</string>
+    <string name="tip_9_title">Take a digital detox</string>
+    <string name="tip_9_desc">Stay away from your phone for 1 hour and enjoy the moment.</string>
+
+    <string name="day_10">Day 10</string>
+    <string name="tip_10_title">Declutter your workspace</string>
+    <string name="tip_10_desc">Organize your desk or room to refresh your focus.</string>
+
+    <!-- Day 11–20 -->
+    <string name="day_11">Day 11</string>
+    <string name="tip_11_title">Call a loved one</string>
+    <string name="tip_11_desc">Reconnect with someone you haven’t spoken to in a while.</string>
+
+    <string name="day_12">Day 12</string>
+    <string name="tip_12_title">Practice gratitude</string>
+    <string name="tip_12_desc">Write down three things you are grateful for today.</string>
+
+    <string name="day_13">Day 13</string>
+    <string name="tip_13_title">Go to bed early</string>
+    <string name="tip_13_desc">Aim to sleep at least 7 hours to feel refreshed tomorrow.</string>
+
+    <string name="day_14">Day 14</string>
+    <string name="tip_14_title">Listen to your favorite music</string>
+    <string name="tip_14_desc">Create a short playlist of songs that make you happy.</string>
+
+    <string name="day_15">Day 15</string>
+    <string name="tip_15_title">Try a breathing exercise</string>
+    <string name="tip_15_desc">Inhale for 4 seconds, hold for 4, and exhale for 4. Repeat 5 times.</string>
+
+    <string name="day_16">Day 16</string>
+    <string name="tip_16_title">Plan tomorrow today</string>
+    <string name="tip_16_desc">Write a short to-do list before bed to start the next day clearly.</string>
+
+    <string name="day_17">Day 17</string>
+    <string name="tip_17_title">Compliment someone</string>
+    <string name="tip_17_desc">Say something kind to a friend, classmate, or family member.</string>
+
+    <string name="day_18">Day 18</string>
+    <string name="tip_18_title">Take 10 deep breaths</string>
+    <string name="tip_18_desc">Pause and focus on your breathing to calm your thoughts.</string>
+
+    <string name="day_19">Day 19</string>
+    <string name="tip_19_title">Organize your phone gallery</string>
+    <string name="tip_19_desc">Delete screenshots and old photos you no longer need.</string>
+
+    <string name="day_20">Day 20</string>
+    <string name="tip_20_title">Watch the sunrise or sunset</string>
+    <string name="tip_20_desc">Enjoy a quiet moment appreciating the beauty of nature.</string>
+
+    <!-- Day 21–30 -->
+    <string name="day_21">Day 21</string>
+    <string name="tip_21_title">Journal your thoughts</string>
+    <string name="tip_21_desc">Write freely for 5 minutes about how you feel today.</string>
+
+    <string name="day_22">Day 22</string>
+    <string name="tip_22_title">Do a random act of kindness</string>
+    <string name="tip_22_desc">Help someone without expecting anything in return.</string>
+
+    <string name="day_23">Day 23</string>
+    <string name="tip_23_title">Unplug before bed</string>
+    <string name="tip_23_desc">Avoid screens 30 minutes before sleep for better rest.</string>
+
+    <string name="day_24">Day 24</string>
+    <string name="tip_24_title">Take a 10-minute walk</string>
+    <string name="tip_24_desc">Move your body and get some sunlight in the morning.</string>
+
+    <string name="day_25">Day 25</string>
+    <string name="tip_25_title">Try a new hobby</string>
+    <string name="tip_25_desc">Paint, write, or learn something new just for fun.</string>
+
+    <string name="day_26">Day 26</string>
+    <string name="tip_26_title">Smile at a stranger</string>
+    <string name="tip_26_desc">A simple smile can brighten both your day and theirs.</string>
+
+    <string name="day_27">Day 27</string>
+    <string name="tip_27_title">Spend time with pets</string>
+    <string name="tip_27_desc">Play with your pet or visit an animal shelter.</string>
+
+    <string name="day_28">Day 28</string>
+    <string name="tip_28_title">Clean one corner of your room</string>
+    <string name="tip_28_desc">Tidy up a small space — it’ll make you feel lighter.</string>
+
+    <string name="day_29">Day 29</string>
+    <string name="tip_29_title">Write a thank-you message</string>
+    <string name="tip_29_desc">Send a message to someone who made your week better.</string>
+
+    <string name="day_30">Day 30</string>
+    <string name="tip_30_title">Reflect on your journey</string>
+    <string name="tip_30_desc">Think about what habits made you feel the best this month.</string>
+
+</resources>
